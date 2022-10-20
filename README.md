@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **PyTorch, TensorFlow, CUDA**
 
+- 📝 I regularly write articles on [https://medium.com/@praxs](https://medium.com/@praxs)
+
 - 💬 Ask me about **artificial intelligence, new technologies, programming**
 
 - 📫 How to reach me **ps4534@nyu.edu**
