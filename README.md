@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/prattyboy3" target="blank"><img src="https://img.shields.io/twitter/follow/prattyboy3?logo=twitter&style=for-the-badge" alt="prattyboy3" /></a> </p>
 
-- 🔭 I’m currently working on [DeFiLlama-Curl](https://github.com/the-praxs/DeFiLlama-Curl)
+- 🔭 I’m currently contributing to [OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal)
 
-- 🌱 I’m currently learning **PyTorch, TensorFlow, CUDA**
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 📝 I regularly write articles on [https://medium.com/@praxs](https://medium.com/@praxs)
+<!-- - 📝 I regularly write articles on [https://medium.com/@praxs](https://medium.com/@praxs) -->
 
-- 💬 Ask me about **artificial intelligence, new technologies, programming**
+- 💬 Ask me about **artificial intelligence, data engineering, cloud, and programming**
 
-- 📫 How to reach me **ps4534@nyu.edu**
+- 📫 Reach me via **ps4534@nyu.edu**
 
-- ⚡ Fun fact **I am an Earth Tiger!**
+- ⚡ Fun fact: **I am an Earth Tiger!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,13 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/thepraxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thepraxs" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/thepraxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thepraxs" height="30" width="40" /></a> -->
 <a href="https://twitter.com/prattyboy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prattyboy3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/praxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praxs" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pratyush-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pratyush-shukla" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/pratyush-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pratyush-shukla" height="30" width="40" /></a>
 <a href="https://kaggle.com/praxs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="praxs1" height="30" width="40" /></a>
 <a href="https://fb.com/praxs.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="praxs.1" height="30" width="40" /></a>
-<a href="https://instagram.com/pratty_boy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratty_boy3" height="30" width="40" /></a>
+<a href="https://instagram.com/pratty_boy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratty_boy3" height="30" width="40" /></a> -->
 <a href="https://medium.com/@praxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@praxs" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/the-praxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the-praxs" height="30" width="40" /></a>
 </p>
