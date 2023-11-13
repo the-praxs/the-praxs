@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyush Shukla</h1>
-<h3 align="center">A young developer currently studying @ NYU Tandon</h3>
+<h3 align="center">Software Engineer @ OpenBB</h3>
 
 <p align="left"> <a href="https://twitter.com/prattyboy3" target="blank"><img src="https://img.shields.io/twitter/follow/prattyboy3?logo=twitter&style=for-the-badge" alt="prattyboy3" /></a> </p>
 
