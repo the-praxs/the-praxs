@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=the-praxs&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## 🐍 Contribution Graph
+## 🐍 Snake Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-praxs/the-praxs/output/github-contribution-grid-snake-dark.svg" />
