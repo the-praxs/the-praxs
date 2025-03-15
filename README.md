@@ -5,8 +5,7 @@
 </div>
 
 <div align="center">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=praxs&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=the-praxs&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ## 👨‍💻 About Me
@@ -28,15 +27,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praxs&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the-praxs&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praxs/praxs/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praxs/praxs/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/praxs/praxs/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-praxs/the-praxs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-praxs/the-praxs/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/the-praxs/the-praxs/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
