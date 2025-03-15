@@ -1,10 +1,6 @@
 # <div align="center">Hi there, I'm Pratyush Shukla 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=the-praxs&style=for-the-badge" alt="Profile Views" />
 </div>
 
