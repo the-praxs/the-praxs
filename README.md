@@ -49,10 +49,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=the-praxs&show_icons=true&theme=radical" alt="Stats" />
-  &ensp; &ensp; 
   <img src="https://streak-stats.demolab.com/?user=the-praxs&theme=radical" alt="Streak Stats" />
 </div>
-&ensp; 
+
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-praxs&theme=merko" alt="Line" />
 </div>
