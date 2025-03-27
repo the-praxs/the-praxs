@@ -48,11 +48,6 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-praxs&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=the-praxs&theme=radical" alt="Streak Stats" />
-</div>
-
-<div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-praxs&theme=merko" alt="Line" />
 </div>
 
